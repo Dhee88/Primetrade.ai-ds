@@ -1,0 +1,7 @@
+frequency_segment,sentiment_bucket,trader_days,median_daily_pnl,mean_daily_pnl,profitable_day_rate,loss_day_rate,pnl_10th_pct,median_trade_count,median_trade_size_usd
+High Frequency,Fear,418,188.555,7409.607,0.689,0.134,-113.526,47.5,1429.156
+High Frequency,Neutral,182,307.573,3731.303,0.775,0.143,-141.103,47.0,1118.459
+High Frequency,Greed,521,587.631,4812.232,0.825,0.063,0.0,71.0,1040.841
+Low Frequency,Fear,372,7.351,2685.619,0.508,0.105,-84.332,18.0,2664.176
+Low Frequency,Neutral,194,0.0,3164.039,0.479,0.082,0.0,18.5,3488.727
+Low Frequency,Greed,653,0.0,3611.222,0.498,0.086,0.0,14.0,4537.277

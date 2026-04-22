@@ -1,0 +1,7 @@
+size_segment,sentiment_bucket,trader_days,median_daily_pnl,mean_daily_pnl,profitable_day_rate,loss_day_rate,pnl_10th_pct,median_trade_count,median_trade_size_usd
+Large Size,Fear,299,459.154,11292.93,0.582,0.104,-79.762,37.0,9685.342
+Large Size,Neutral,114,417.938,6157.452,0.632,0.07,0.0,21.0,12221.456
+Large Size,Greed,363,129.661,3827.749,0.537,0.055,0.0,17.0,8999.746
+Small Size,Fear,491,79.087,1465.743,0.617,0.13,-132.881,27.0,1026.909
+Small Size,Neutral,262,116.462,2255.615,0.618,0.13,-140.01,37.5,1132.674
+Small Size,Greed,811,289.258,4285.854,0.691,0.085,0.0,39.0,1242.675

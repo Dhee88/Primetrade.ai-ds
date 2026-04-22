@@ -1,0 +1,4 @@
+sentiment_bucket,avg_pnl,avg_win_rate,avg_trades_per_day,avg_position_size_usd,avg_long_ratio
+Fear,5185.146,0.842,105.363,8529.86,0.522
+Neutral,3438.619,0.836,100.229,6963.695,0.472
+Greed,4144.208,0.856,76.912,5954.633,0.472

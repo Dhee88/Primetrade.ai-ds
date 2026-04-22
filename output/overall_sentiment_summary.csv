@@ -1,0 +1,4 @@
+sentiment_bucket,trader_days,median_daily_pnl,mean_daily_pnl,profitable_day_rate,loss_day_rate,pnl_10th_pct,median_trade_count,median_trade_size_usd,median_total_volume_usd,median_long_ratio
+Fear,790,122.737,5185.146,0.604,0.12,-112.357,31.0,1853.677,83640.45,0.508
+Neutral,376,167.552,3438.619,0.622,0.112,-5.949,29.5,1704.405,75725.155,0.49
+Greed,1174,265.248,4144.208,0.643,0.076,0.0,28.0,2004.694,61127.78,0.467

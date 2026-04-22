@@ -1,0 +1,7 @@
+metric,value
+frequency_cut_median_trade_count,27.5
+size_cut_median_trade_size_usd,2474.8361543569054
+consistency_cut_profitable_day_rate,0.5608974358974359
+winner_cut_total_pnl,117655.079453
+accounts_analyzed,32.0
+trader_days_analyzed,2340.0

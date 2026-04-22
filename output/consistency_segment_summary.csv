@@ -1,0 +1,7 @@
+consistency_segment,sentiment_bucket,trader_days,median_daily_pnl,mean_daily_pnl,profitable_day_rate,loss_day_rate,pnl_10th_pct,median_trade_count,median_trade_size_usd
+Consistent Winners,Fear,490,236.098,6526.01,0.714,0.102,-2.217,35.0,1634.263
+Consistent Winners,Neutral,243,336.641,3208.644,0.753,0.115,-1.214,33.0,1538.455
+Consistent Winners,Greed,747,510.0,2992.825,0.763,0.062,0.0,40.0,1815.059
+Inconsistent,Fear,300,0.0,2995.069,0.423,0.15,-1106.536,24.0,2112.469
+Inconsistent,Neutral,133,0.0,3858.799,0.383,0.105,-42.905,25.0,1903.224
+Inconsistent,Greed,427,0.0,6158.455,0.433,0.101,-3.224,14.0,2342.75

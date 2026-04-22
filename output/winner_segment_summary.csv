@@ -1,0 +1,7 @@
+winner_segment,sentiment_bucket,trader_days,median_daily_pnl,mean_daily_pnl,profitable_day_rate,loss_day_rate,pnl_10th_pct,median_trade_count,median_trade_size_usd
+Losers,Fear,328,78.808,554.038,0.588,0.146,-206.478,22.5,1164.421
+Losers,Neutral,146,70.529,504.331,0.603,0.144,-163.931,25.5,828.849
+Losers,Greed,415,217.858,527.396,0.651,0.058,0.0,26.0,826.73
+Winners,Fear,462,190.696,8473.033,0.615,0.102,-14.119,40.0,2351.675
+Winners,Neutral,230,328.247,5301.254,0.635,0.091,0.0,33.0,2475.381
+Winners,Greed,759,312.131,6121.78,0.639,0.086,0.0,30.0,3751.305
