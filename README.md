@@ -193,22 +193,3 @@ Winners maintain positive median PnL even in Greed markets, while losers struggl
 
 ---
 
-## Strategy Recommendations
-
-| Market Regime | Rule | Action | Rationale |
-|---------------|------|--------|-----------|
-| **Fear** | Reduce risk for low-frequency and losing traders | Cap position sizes and require stricter entry criteria for these segments | These groups do not generate sufficient PnL in Fear to justify high exposure |
-| **Greed** | Keep fast traders active, but trim size for large notional traders | Allow high-frequency traders to participate fully; reduce position limits for large-size accounts | Greed benefits fast execution, but larger traders lose edge as crowding increases |
-
-These rules can be implemented as sentiment-based risk overlays in a live trading system.
-
----
-
-## Future Work (Optional Extensions)
-
-- **Predictive Modeling**: Use sentiment and behavioral features to predict next-day profitability or PnL volatility.
-- **Clustering Analysis**: Apply unsupervised learning (e.g., K-means) to identify natural trader archetypes beyond simple median splits.
-- **Interactive Dashboard**: Build a Streamlit app to explore segment performance dynamically.
-- **Leverage Estimation**: If position size and account equity data become available, estimate implied leverage for more precise risk analysis.
-
----
